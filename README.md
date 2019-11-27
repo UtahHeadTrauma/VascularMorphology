@@ -5,4 +5,4 @@ This is a MATLAB code written for measuring the microvasculature tortuosity, dia
 
 The main code file is tortuosity_mat_v4.m and requires cleanimage_2.m to run. 
 
-Written in MATLAB 2018b
+Written in MATLAB 2018b by Kendall McMillan and Matthew Byrne
